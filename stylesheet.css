@@ -78,17 +78,29 @@ hr {
 }
 
 .NEWS {
-    padding: 100px;
+    padding: 20px;
 }
 
-.topic {
+.topic1 {
     display: flex;
     justify-content: center;
+    padding: 10px;
 }
 
-.topic img {
+.topic1 img {
     width: 5%;
 }
+
+.topic2 {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.topic2 img {
+    width: 100%;
+}
+
 
 
 
