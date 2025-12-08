@@ -58,10 +58,6 @@ header ul li a {
     justify-content: center;
     align-items: center;
 }
-
-.top img {
-    wide: 80%;
-}
     
 .box {
     display: flex;
