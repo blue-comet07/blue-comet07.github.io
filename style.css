@@ -59,6 +59,10 @@ header ul li a {
     align-items: center;
 }
 
+.top img {
+    wide: 80%;
+}
+    
 .box {
     display: flex;
     align-items: center; 
